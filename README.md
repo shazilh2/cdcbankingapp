@@ -1,2 +1,3 @@
 # cdcbankingapp
 This repo is for storing data and code for  banking app
+## this repo is to understand
